@@ -32,6 +32,7 @@ public class AddNote extends AppCompatActivity {
 
         public AddNoteClickHandler(Context context) {
             this.context = context;
+            String name ;
         }
 
         public void saveNote(View view){
